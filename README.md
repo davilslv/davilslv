@@ -3,7 +3,7 @@
 
 
 Hello Guys! 😋 Welcome to my profile!<br>
-I'm a Software Engineering undergrad, passionate about problem solving and with a great desire to learn new things so I can become a talented professional in the tech field. I love to talk about technology with others and to learn from them, always trying to reach out to more experienced people. Feel welcome to follow and text me, i'm 100% open to help if you need any information or to get helped on something. 
+I'm a Software Engineering undergrad, passionate about problem solving and developing mobile applications, with a great desire to learn new things so I can become a talented professional in the tech field. I love to talk about technology with others and to learn from them, always trying to reach out to more experienced people. Feel welcome to follow and text me, i'm 100% open to help if you need any information or to get helped on something. 
 
 
 ## 💭 Contacts
@@ -15,11 +15,9 @@ I'm a Software Engineering undergrad, passionate about problem solving and with 
 
 ## 🧑‍💻 Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-<br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![swift](https://img.shields.io/badge/swift-ffffff?style=for-the-badge&logo=swift&logoColor=red)
+![](https://img.shields.io/badge/uikit-0876de?style=for-the-badge&logo=uikit&logoColor=white) 
+
 
 
 

@@ -16,7 +16,7 @@ I'm a Software Engineering undergrad, passionate about problem solving and with 
 ## 🧑‍💻 Tools
 
 ![swift](https://img.shields.io/badge/swift-ffffff?style=for-the-badge&logo=swift&logoColor=red)
-![](https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=ios&logoColor=black) 
+![](https://img.shields.io/badge/xcode-ffffff?style=for-the-badge&logo=xcode&logoColor=blue) 
 
 
 

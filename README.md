@@ -1,26 +1,33 @@
-### Hi there 👋
-# 🚀 Davi Lemos
+# 👋 Hey! I'm Davi Lemos
 
+- I'm currently focused on improving my skills in **Software Development**, with a strong interest in **Backend** and **Cloud** solutions.
 
-Hello Guys! 😋 Welcome to my profile!<br>
-I'm a Software Engineering undergrad, passionate about problem solving and with a great desire to learn new things so I can become a talented professional in the tech field. I love to talk about technology with others and to learn from them, always trying to reach out to more experienced people. Feel welcome to follow and text me, i'm 100% open to help if you need any information or to get helped on something. 
+### - What I'm Learning & Working With:
+- ☕ **Java**, **Spring Boot**
+- 🐘 **PostgreSQL**
+- ☁️ **AWS** (Core services)
+- ⚙️ **Angular** (basic)
+- 💻 Also exploring **C#** and **Azure** at an introductory level
 
+### - Interests:
+- 🖥️ Backend Development
+- ☁️ Cloud Computing
 
-## 💭 Contacts
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davilslv) 
- 
-## 🌐 Some others networks
-[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/davilslv)
-[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/davilslv/)
+### - Let's connect:
+- [Instagram](https://instagram.com/davilslv) 
+- [LinkedIn](https://linkedin.com/in/davilslv)
 
-## 🧑‍💻 Tools
+---
 
- ![swift](https://img.shields.io/badge/csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=purple)
- ![](https://img.shields.io/badge/asp.net-ffffff?style=for-the-badge&logo=.net&logoColor=purple) 
+## - GitHub Stats:
 
+<div align="center">
+  <a href="https://github.com/davilslv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilslv&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilslv&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  </a>
+</div>
 
+---
 
-
-
-# 📊 GitHub
-![](https://github-readme-stats.vercel.app/api?username=davilslv&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</br>
+*Always learning. Always building.*

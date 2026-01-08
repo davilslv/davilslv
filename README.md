@@ -20,15 +20,4 @@
 
 ---
 
-## - GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/davilslv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilslv&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilslv&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-  </a>
-</div>
-
----
-
 *Always learning. Always building.*

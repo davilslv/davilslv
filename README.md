@@ -12,7 +12,7 @@ I’m especially interested in how data moves through real-world systems — fro
 - 📊 **Power BI** for dashboards, KPIs and business-oriented reports
 - ☁️ **Cloud fundamentals**, especially **Azure** and data-related services
 - 🧱 Introductory studies in **Data Warehousing**, **Lakehouse**, **Spark/Databricks** and **dbt**
-- 💻 Backend fundamentals with **C#**, **ASP.NET** and APIs
+- 💻 Backend fundamentals with **Python**, **Django**, **C#**, **ASP.NET** and APIs
 
 ### 💼 Current Experience
 

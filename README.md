@@ -1,23 +1,39 @@
 # 👋 Hey! I'm Davi Lemos
 
-- I'm currently focused on improving my skills in **Software Development**, with a strong interest in **Backend** and **Data Engineering**.
+I'm a Software Engineering student currently focused on building a strong foundation in **Data Engineering**, **Backend Development** and **Cloud Computing**.
 
-### - What I'm Learning & Working With:
-- 💻 **C#**, **ASP.NET**
-- 🐘 **PostgreSQL or SQL Server**
-- ☁️ **Azure** (Core services)
-- ⚙️ **Angular or Next.js** (basic)
-- Also exploring **Python** and **Data Engineering** at an introductory level
+I’m especially interested in how data moves through real-world systems — from extraction and transformation to storage, modeling, automation and analytics.
 
-### - Interests:
-- 🖥️ Backend Development
-- ☁️ Cloud Computing
+### 🚀 What I'm Learning & Working With
+
+- 🐍 **Python** for data processing and automation
+- 🗄️ **SQL**, with focus on **SQL Server** and **PostgreSQL**
+- ⚙️ **ETL/ELT concepts**, data pipelines and workflow automation
+- 📊 **Power BI** for dashboards, KPIs and business-oriented reports
+- ☁️ **Cloud fundamentals**, especially **Azure** and data-related services
+- 🧱 Introductory studies in **Data Warehousing**, **Lakehouse**, **Spark/Databricks** and **dbt**
+- 💻 Backend fundamentals with **C#**, **ASP.NET** and APIs
+
+### 💼 Current Experience
+
+I currently work with internal process improvement, data integration and operational reporting, using tools such as **Power Platform**, **Power BI**, **SharePoint**, **Excel**, and data from enterprise systems like **SAP**.
+
+My work involves organizing, transforming and improving access to operational data to support better decision-making and reduce manual work.
+
+### 🎯 Interests
+
 - 📈 Data Engineering
+- 🧱 Data Warehousing & Lakehouse Architecture
+- ⚙️ ETL/ELT Pipelines
+- ☁️ Cloud Data Platforms
+- 🖥️ Backend Development
+- 📊 Analytics Engineering
 
-### - Let's connect:
+### 📫 Let's connect
+
 - [Instagram](https://instagram.com/davilslv) 
 - [LinkedIn](https://linkedin.com/in/davilslv)
 
 ---
 
-*Always learning. Always building.*
+*Always learning. Always building. Turning data into useful systems.*

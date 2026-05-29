@@ -8,7 +8,7 @@ I'm a Software Engineering student currently focused on building a strong founda
 - 🗄️ **SQL**, with focus on **SQL Server** and **PostgreSQL**
 - 📊 **Power BI** for dashboards, KPIs and business-oriented reports
 - ☁️ **Cloud**, especially **Azure** and data-related services
-- 🧱 Studies in *CyberSec** and **Cloud Security**
+- 🧱 Studies in **CyberSec** and **Cloud Security**
 - 💻 Backend fundamentals with **Python**, **Django**, **C#**, **ASP.NET** and APIs
 
 ### 💼 Current Experience

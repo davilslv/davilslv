@@ -1,17 +1,14 @@
 # 👋 Hey! I'm Davi Lemos
 
-I'm a Software Engineering student currently focused on building a strong foundation in **Data Engineering**, **Backend Development** and **Cloud Computing**.
-
-I’m especially interested in how data moves through real-world systems — from extraction and transformation to storage, modeling, automation and analytics.
+I'm a Software Engineering student currently focused on building a strong foundation in **Cyber Security**, **Cloud architecture** and **Data**.
 
 ### 🚀 What I'm Learning & Working With
 
-- 🐍 **Python** for data processing and automation
+- 🐍 **Python** for data processing, development and automation
 - 🗄️ **SQL**, with focus on **SQL Server** and **PostgreSQL**
-- ⚙️ **ETL/ELT concepts**, data pipelines and workflow automation
 - 📊 **Power BI** for dashboards, KPIs and business-oriented reports
-- ☁️ **Cloud fundamentals**, especially **Azure** and data-related services
-- 🧱 Introductory studies in **Data Warehousing**, **Lakehouse**, **Spark/Databricks** and **dbt**
+- ☁️ **Cloud**, especially **Azure** and data-related services
+- 🧱 Studies in *CyberSec** and **Cloud Security**
 - 💻 Backend fundamentals with **Python**, **Django**, **C#**, **ASP.NET** and APIs
 
 ### 💼 Current Experience
@@ -23,9 +20,9 @@ My work involves organizing, transforming and improving access to operational da
 ### 🎯 Interests
 
 - 📈 Data Engineering
-- 🧱 Data Warehousing & Lakehouse Architecture
-- ⚙️ ETL/ELT Pipelines
-- ☁️ Cloud Data Platforms
+- 🧱 Cybersecurity
+- ⚙️ Infra
+- ☁️ Cloud 
 - 🖥️ Backend Development
 - 📊 Analytics Engineering
 

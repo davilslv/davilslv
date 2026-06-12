@@ -1,0 +1,54 @@
+<svg width="100%" viewBox="0 0 860 140" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Davi Lemos</title>
+  <desc>GitHub profile header</desc>
+
+  <rect width="860" height="140" fill="#0D1117"/>
+
+  <line x1="48" y1="100" x2="812" y2="100" stroke="#21262D" stroke-width="0.5"/>
+
+  <text
+    x="48" y="72"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="36"
+    font-weight="300"
+    letter-spacing="-1"
+    fill="#F0F6FC">Davi Lemos</text>
+
+  <text
+    x="50" y="118"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    letter-spacing="2"
+    fill="#484F58">SOFTWARE ENGINEERING</text>
+
+  <text
+    x="296" y="118"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    fill="#30363D">·</text>
+
+  <text
+    x="312" y="118"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    letter-spacing="2"
+    fill="#484F58">CLOUD  &amp;  SECURITY</text>
+
+  <text
+    x="530" y="118"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    fill="#30363D">·</text>
+
+  <text
+    x="546" y="118"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    letter-spacing="2"
+    fill="#484F58">SÃO LUÍS, BR</text>
+</svg>

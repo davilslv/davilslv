@@ -24,7 +24,7 @@ Backend & Automation       Python · Django · C# · ASP.NET · SQL Server · Po
 
 ## Experience
 
-**IT Intern — internal process improvement, operational reporting and data integration**
+**Vale · IT Intern — internal process improvement, operational reporting and data integration**
 
 Working with Power BI, Power Platform, SharePoint, Excel, SAP data, Azure DevOps and SQL-based data analysis.
 Organizing, transforming and improving access to operational data — reducing manual work, improving visibility and supporting better decision-making.
